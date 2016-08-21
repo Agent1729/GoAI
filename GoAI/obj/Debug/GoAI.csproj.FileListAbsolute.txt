@@ -1,0 +1,6 @@
+c:\users\agent1729.agent1729-pc\documents\visual studio 2013\Projects\GoAI\GoAI\bin\Debug\GoAI.exe.config
+c:\users\agent1729.agent1729-pc\documents\visual studio 2013\Projects\GoAI\GoAI\bin\Debug\GoAI.exe
+c:\users\agent1729.agent1729-pc\documents\visual studio 2013\Projects\GoAI\GoAI\bin\Debug\GoAI.pdb
+c:\users\agent1729.agent1729-pc\documents\visual studio 2013\Projects\GoAI\GoAI\obj\Debug\GoAI.csprojResolveAssemblyReference.cache
+c:\users\agent1729.agent1729-pc\documents\visual studio 2013\Projects\GoAI\GoAI\obj\Debug\GoAI.exe
+c:\users\agent1729.agent1729-pc\documents\visual studio 2013\Projects\GoAI\GoAI\obj\Debug\GoAI.pdb
